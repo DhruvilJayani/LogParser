@@ -1,0 +1,15 @@
+{
+  "/api/v1/users" : {
+    "response_times" : {
+      "95_percentile" : 123,
+      "90_percentile" : 123,
+      "min" : 123,
+      "max" : 123,
+      "50_percentile" : 123,
+      "99_percentile" : 123
+    },
+    "status_codes" : {
+      "2XX" : 1
+    }
+  }
+}
